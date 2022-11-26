@@ -1,0 +1,17 @@
+.nav {
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(226, 226, 226);
+}
+.nav p {
+  margin: 1rem;
+}
+.hospital-pic img {
+  width: 1000px;
+}
+.container {
+  display: flex;
+  text-align: center;
+  font-size:xx-large;
+}
